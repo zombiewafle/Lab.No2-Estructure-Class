@@ -1,5 +1,14 @@
+/**Fernando José Garavito Ovando 18071
+ * Javier Salazar 18764
+ * Hoja de trabajo No. 2
+ * 01 de febrero de 2019
+ */
+
+
 package Calculadora.Clases.Interfaces;
 
+
+// Interfaz de nuestra calculadora
 public interface iCalculadora {
 
     //Metodo para hacer las sumas de la calculadora
