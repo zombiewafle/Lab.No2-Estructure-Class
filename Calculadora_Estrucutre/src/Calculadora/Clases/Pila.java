@@ -1,3 +1,8 @@
+/**Fernando José Garavito Ovando 18071
+ * Javier Salazar 18764
+ * Hoja de trabajo No. 2
+ * 01 de febrero de 2019
+ */
 package Calculadora.Clases;
 
 import Calculadora.Clases.Interfaces.iPila;
